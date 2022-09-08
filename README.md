@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aret777
-- 👀 I’m interested in Game Development and Crypto.
-- 🌱 I’m currently learning Blockchain and Solidity tecs
-- 💞️ I’m looking to collaborate on smart contracts problems.
+- 👀 I’m interested in Game Development.
+- 🌱 I’m currently learning Godot and C++
+- 💞️ I’m looking to collaborate on games projects.
 - 📫 How to reach me: aret#7469 in Discord
 
 <!---
