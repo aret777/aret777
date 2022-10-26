@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aret777
+- 👋 Hi, I’m Artem
 - 👀 I’m interested in Game Development.
 - 🌱 I’m currently learning Godot and C++
 - 💞️ I’m looking to collaborate on games projects.
