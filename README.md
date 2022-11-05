@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Godot and C++
 - 💞️ I’m looking to collaborate on games projects.
 - 📫 How to reach me: aret#7469 in Discord
+- In this repository I uploaded my first game made in Godot
 
 <!---
 aret777/aret777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
